@@ -1,0 +1,7 @@
+Warning: Unable to obtain the local timezone: "Jerusalem Normalzeit" does not fully match with "E. Europe Standard Time" in "AimmsTimezones.json".
+Warning at line 1 in user-defined function section "MainTermination".
+MainTermination does not contain any statements, in order to properly exit AIMMS, you should delete MainTermination (to employ the default AIMMS exit code) or add at least a return statement with a non-zero code.
+Semantic error at line 1 in the initial data of element parameter "webui::DefaultAuthorization", column 1.
+The value '7' is outside the range set "webui::AllAuthorizations" of element parameter "webui::DefaultAuthorization", see also the option "warning range violation".
+Warning at line 1 in user-defined function section "MainTermination".
+MainTermination does not contain any statements, in order to properly exit AIMMS, you should delete MainTermination (to employ the default AIMMS exit code) or add at least a return statement with a non-zero code.
